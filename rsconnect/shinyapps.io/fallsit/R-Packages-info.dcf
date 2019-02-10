@@ -1,0 +1,12 @@
+name: R-Packages-info
+title: R-Packages-info
+username:
+account: fallsit
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 704698
+bundleId: 1866847
+url: https://fallsit.shinyapps.io/R-Packages-info/
+when: 1549790827.04829
+asMultiple: FALSE
+asStatic: FALSE
